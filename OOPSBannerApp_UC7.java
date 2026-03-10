@@ -7,6 +7,7 @@ public class OOPSBannerApp_UC7 {
         CharacterPattern(char character, String[] pattern) {
             this.character = character;
             this.pattern = pattern;
+            
         }
 
         char getCharacter() {
